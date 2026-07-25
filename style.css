@@ -21,7 +21,9 @@ video{
 }
 
 #container{
+    /*
     padding-top: 30px;
+    */
     z-index: 0;
     position: absolute;
     top : 0;
@@ -31,7 +33,9 @@ video{
     display: flex;
     align-items: center;
 */
+/*
     padding-left: 300px;
+    */
 }
 
 #content{
