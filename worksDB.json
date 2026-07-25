@@ -14,7 +14,7 @@
                 ],
                 "otraV":
                 [
-
+                   
                 ]
             }
         },
@@ -32,6 +32,34 @@
                 "otraV":
                 [
 
+                ]
+            }
+        },
+        {
+            "titulo": "siku.runner.exe", 
+            "hVideo": "9Y6q-M-yWOA",
+            "info"  : 
+            {
+                "fecha"      : "2023 - 24",
+                "formato"    : "LiveCoding y Performance Digital Con Sikus, Micfronos y Videojuego",
+                "descripcion":
+                [
+                    "siku.runner.exe es una performance para dos artistas donde se despliega un cruce interdisciplinario entre música generativa, a través del uso de diferentes Sikus y livecoding, junto al gameplay de un videojuego, diseñado específicamente para la performance, este hace uso de autómatas celulares y la estética del género survival horror mezclandolo con tipologías arquitectónicas locales."
+                ],
+                "otraV":
+                [
+                     {
+                        "titulo" : "Siku.Runner_004.exe - Foro de las artes - U Chile - Casa Palacio",
+                        "video"  : "https://youtu.be/FT0B6U91O9c"
+                    },
+                    {
+                        "titulo" : "Siku.Runner.exe.mtv",
+                        "video"  : "https://youtu.be/azibhC9fvVw"
+                    },
+                    {
+                        "titulo" : "Siku.Runner_003.exe - Noche De Performance - GAM",
+                        "video"  : "https://youtu.be/HVXFMvphyV4"
+                    }
                 ]
             }
         },  

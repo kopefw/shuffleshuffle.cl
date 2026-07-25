@@ -64,8 +64,6 @@
                     const titulo = container.getElementsByTagName("h1")[0];
                     titulo.innerHTML = work.titulo;
 
-
-                    console.log(titulo);
                     const video = container.getElementsByTagName("iframe")[0];
                     video.setAttribute("src" ,youtubeEmbedCodeS + work.hVideo + youtubeEmbedCodeF);
                     
@@ -93,10 +91,14 @@
                         
                         for(let i = 0; i < work.info.otraV.length; i++)
                         {
-                            ul.innerHTML = "<li><a></a></li>";
-                            const a = ul.getElementsByTagName("a")[0];
+                            
+                            const li = document.createElement("li");
+                            ul.appendChild(li);
+                            const a = document.createElement("a");
+                            li.appendChild(a)
                             a.setAttribute("href", work.info.otraV[i].video);
                             a.innerHTML = work.info.otraV[i].titulo;
+                            //console.log(work.info.otraV[i].titulo)
                         }
                         info.appendChild(p);
                     }
