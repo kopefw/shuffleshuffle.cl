@@ -22,7 +22,7 @@
             async function cargarDatosJSON() {
                 try {
                     // 1. Hace la petición al archivo en el mismo servidor
-                    const respuesta = await fetch('worksDB.json');
+                    const respuesta = await fetch('worksDB.json?v=0.1');
                     
                     // 2. Verifica si el archivo existe y se pudo leer
                     if (!respuesta.ok) {
