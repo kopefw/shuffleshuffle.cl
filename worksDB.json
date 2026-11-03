@@ -7,7 +7,7 @@
             "info"  : 
             {
                 "fecha"      : "2026",
-                "formato"    : "LiveCoding y Performance Digital Con Game Engine Godot",
+                "formato"    : "LiveCoding y Performance Digital Con Godot (Game Engine)",
                 "descripcion":
                 [
                     "Performance audiovisual donde exploramos cruces entre agencia algorítmica y acción humana. La presentación íntegra música programa en tiempo real, proyección de gameplay en vivo y comunicación entre sistemas que se afectan mutuamente. La obra propone una experiencia basada en la iteración caótica, la empatía algorítmica y la sincronicidad ."
@@ -196,7 +196,7 @@
         "felipe" : 
         {
             "bio" : "Felipe Weason, 1984, Chileno. Licenciado en Artes Plásticas de la Universidad de Chile, Magíster en Artes Mediales de la misma Universidad. Ha desarrollado su trabajo artístico y profesional en torno a la experimentación en medios y tecnología digitales. Actualmente dedica su tiempo a la investigación y producción en torno a las posibilidades críticas y expresivas en la experimentación con videojuegos y la performance digital, la docencia universitaria y al desarrollo de sistemas interactivos para museos.",
-            "sitio" : "http://felipeweason.info"
+            "sitio" : "http://felipeweason.cl"
 
         }
     }

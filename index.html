@@ -132,8 +132,8 @@ gyroscope;
                 pSean.innerHTML = data.bios.sean.bio;
                 pSean.appendChild(document.createElement("br"));
                 const aSean = document.createElement("a");
-                aSean.innerHTML = "Sitio Web";
-                aSean.setAttribute("src", data.bios.sean.sitio);
+                aSean.innerHTML = data.bios.sean.sitio;
+                aSean.setAttribute("href", data.bios.sean.sitio);
                 pSean.appendChild(aSean);
                 container.appendChild(pSean);
 
@@ -141,8 +141,8 @@ gyroscope;
                 pFelipe.innerHTML = data.bios.felipe.bio;
                 pFelipe.appendChild(document.createElement("br"));
                 const aFelipe = document.createElement("a");
-                aFelipe.innerHTML = "Sitio Web";
-                aFelipe.setAttribute("src", data.bios.felipe.sitio);
+                aFelipe.innerHTML = data.bios.felipe.sitio;
+                aFelipe.setAttribute("href", data.bios.felipe.sitio);
                 pFelipe.appendChild(aFelipe);
                 container.appendChild(pFelipe);
             }
